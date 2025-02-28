@@ -1,0 +1,1 @@
+import { getUserData } from '../../_mihoyo_api/api';
